@@ -8,4 +8,8 @@ Changes made: Added "My Examples" section towards the end where I implemented my
 Tweaked code: https://github.com/Y-kz918/Yuktha-Langgraph-MAT496/blob/main/Module%201/simple_graph%20(1).ipynb  
 
 **video** 3- Learnt how to setup and run LangGraph Studio on device and in the studio and learnt how to use the UI to input a graph state, see the thread for the dataflow of the graph  
-Changes made: I chose to use Groq as the client, so I had to install some extra dependencies during the setup. After setting up the environment, I created a .env file to store my Groq and Langsmith API keys. I also updated the code in router.py and agent.py (found in the /studio folder) by replacing ChatOpenAI() with ChatGroq() so the tools would work correctly with the Groq client.
+Changes made: I chose to use Groq as the client, so I had to install some extra dependencies during the setup. After setting up the environment, I created a .env file to store my Groq and Langsmith API keys. I also updated the code in router.py and agent.py (found in the /studio folder) by replacing ChatOpenAI() with ChatGroq() so the tools would work correctly with the Groq client.  
+
+video 4- Learnt how to use chat messages as our graph state, chat models as graph nodes, binding tools to the model and executing tool calls in graph nodes.  
+Changes made: Used Groq's "openai/gpt-oss-120b" model, implemented my own tool calling example at the end  
+Tweaked code: 
