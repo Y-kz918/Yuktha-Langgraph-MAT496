@@ -11,5 +11,5 @@ Tweaked code: https://github.com/Y-kz918/Yuktha-Langgraph-MAT496/blob/main/Modul
 Changes made: I chose to use Groq as the client, so I had to install some extra dependencies during the setup. After setting up the environment, I created a .env file to store my Groq and Langsmith API keys. I also updated the code in router.py and agent.py (found in the /studio folder) by replacing ChatOpenAI() with ChatGroq() so the tools would work correctly with the Groq client.  
 
 video 4- Learnt how to use chat messages as our graph state, chat models as graph nodes, binding tools to the model and executing tool calls in graph nodes.  
-Changes made: Used Groq's "openai/gpt-oss-120b" model, implemented my own tool calling example at the end  
-Tweaked code: 
+Changes made: Used Groq's "openai/gpt-oss-120b" model instead of OpenAI, implemented my own tool calling example at the end  
+Tweaked code: https://github.com/Y-kz918/Yuktha-Langgraph-MAT496/blob/main/Module%201/chain.ipynb
