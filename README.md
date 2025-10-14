@@ -5,4 +5,4 @@
 
 **video** 2- Learnt how to create simple graphs in LangGraph, which consists defining states, nodes, conditional edges, constructing graph, visualizing it and graph invocation.  
 Changes made: Added "My Examples" section towards the end where I implemented my own graph example.
-Tweaked code: 
+Tweaked code: https://github.com/Y-kz918/Yuktha-Langgraph-MAT496/blob/main/Module%201/simple_graph%20(1).ipynb
