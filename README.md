@@ -17,3 +17,7 @@ Tweaked code: https://github.com/Y-kz918/Yuktha-Langgraph-MAT496/blob/main/Modul
 **video 5**- Learnt about the concept of a router agent, where the chat model decides whether to respond directly or call a tool based on the user's input. Focused on how the LLM manages control flow - choosing between tool execution and generating a natural language reply.  
 Changes made: Used Groq’s "openai/gpt-oss-120b" model. At the end, implemented my own graph and included screenshots from LangGraph Studio to show the flow visualization.  
 Tweaked code: https://github.com/Y-kz918/Yuktha-Langgraph-MAT496/blob/main/Module%201/router.ipynb  
+
+**video 6** - I learned about agentic architecture, where the system can return a ToolMessage to the LLM, allowing it to either make another tool call or generate a direct response. I also explored how LangSmith provides detailed traceability of the entire conversation flow.  
+Changes made: used Groq’s "openai/gpt-oss-120b" model, created a custom agent example, and included screenshots of the LangSmith traces    
+Tweaked code: https://github.com/Y-kz918/Yuktha-Langgraph-MAT496/blob/main/Module%201/agent.ipynb  
