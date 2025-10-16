@@ -21,3 +21,7 @@ Tweaked code: https://github.com/Y-kz918/Yuktha-Langgraph-MAT496/blob/main/Modul
 **video 6** - I learned about agentic architecture, where the system can return a ToolMessage to the LLM, allowing it to either make another tool call or generate a direct response. I also explored how LangSmith provides detailed traceability of the entire conversation flow.  
 Changes made: used Groq’s "openai/gpt-oss-120b" model, created a custom agent example, and included screenshots of the LangSmith traces    
 Tweaked code: https://github.com/Y-kz918/Yuktha-Langgraph-MAT496/blob/main/Module%201/agent.ipynb  
+
+**video 7** - Learned how agents can retain past data using memory through persistence, where a checkpointer is used to automatically save the graph's state after each step.  
+Changes made: Used Groq’s "openai/gpt-oss-120b" model, built a custom agent with memory example, and included screenshots of the LangGraph Studio implementation  
+Tweaked code: https://github.com/Y-kz918/Yuktha-Langgraph-MAT496/blob/main/Module%201/agent_memory.ipynb  
