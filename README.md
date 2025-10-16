@@ -25,3 +25,7 @@ Tweaked code: https://github.com/Y-kz918/Yuktha-Langgraph-MAT496/blob/main/Modul
 **video 7** - Learned how agents can retain past data using memory through persistence, where a checkpointer is used to automatically save the graph's state after each step.  
 Changes made: Used Groq’s "openai/gpt-oss-120b" model, built a custom agent with memory example, and included screenshots of the LangGraph Studio implementation  
 Tweaked code: https://github.com/Y-kz918/Yuktha-Langgraph-MAT496/blob/main/Module%201/agent_memory.ipynb  
+
+**video 8** - Learned how to deploy the Graph models both locally to LangGraph Studio and to LangGraph Cloud, enabling easy testing and sharing of the implemented workflows.  
+Code for local deployment: https://github.com/Y-kz918/Yuktha-Langgraph-MAT496/blob/main/Module%201/deployment.ipynb  
+(Deployment on LangGraph Cloud is a paid feature)
