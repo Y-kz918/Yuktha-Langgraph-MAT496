@@ -34,4 +34,8 @@ Code for local deployment: https://github.com/Y-kz918/Yuktha-Langgraph-MAT496/bl
 
 video 1- Learnt how to define state schemas in LangGraph using three different methods: TypedDict, dataclass, and Pydantic. Each method provides a way to structure the data used in the graph's state. Learnt how these schemas help manage and update the state as the graph runs. I also noticed that Pydantic stands out because it offers built-in runtime validation, which the other two don’t provide by default.  
 Changes made: Added own examples towards the end of the source code.
-Tweaked code: https://github.com/Y-kz918/Yuktha-Langgraph-MAT496/blob/main/MODULE%202/state_schema%20(1).ipynb
+Tweaked code: https://github.com/Y-kz918/Yuktha-Langgraph-MAT496/blob/main/MODULE%202/state_schema%20(1).ipynb  
+
+video 2- Learnt how LangGraph manages state updates, branching,usage and working of reducers and specially custom reducers like operator.add and custom functions to handle concurrent updates and data types like lists and messages. This allows for robust state management in graphs with branching logic.  
+Changes made: Added 'own examples' section towards the end of the source code for the concepts covered.  
+Tweaked code: https://github.com/Y-kz918/Yuktha-Langgraph-MAT496/blob/main/MODULE%202/state_reducers%20(1).ipynb
