@@ -28,4 +28,9 @@ Tweaked code: https://github.com/Y-kz918/Yuktha-Langgraph-MAT496/blob/main/Modul
 
 **video 8** - Learned how to deploy the Graph models both locally to LangGraph Studio and to LangGraph Cloud, enabling easy testing and sharing of the implemented workflows.  
 Code for local deployment: https://github.com/Y-kz918/Yuktha-Langgraph-MAT496/blob/main/Module%201/deployment.ipynb  
-(Deployment on LangGraph Cloud is a paid feature)
+(Deployment on LangGraph Cloud is a paid feature)  
+
+# MODULE 2  
+
+video 1- Learnt how to define state schemas in LangGraph using three different methods: TypedDict, dataclass, and Pydantic. Each method provides a way to structure the data used in the graph's state. Learnt how these schemas help manage and update the state as the graph runs. I also noticed that Pydantic stands out because it offers built-in runtime validation, which the other two don’t provide by default.  
+Tweaked code: https://github.com/Y-kz918/Yuktha-Langgraph-MAT496/blob/main/MODULE%202/state_schema%20(1).ipynb
