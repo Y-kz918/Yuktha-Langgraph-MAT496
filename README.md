@@ -38,4 +38,10 @@ Tweaked code: https://github.com/Y-kz918/Yuktha-Langgraph-MAT496/blob/main/MODUL
 
 video 2- Learnt how LangGraph manages state updates, branching,usage and working of reducers and specially custom reducers like operator.add and custom functions to handle concurrent updates and data types like lists and messages. This allows for robust state management in graphs with branching logic.  
 Changes made: Added 'own examples' section towards the end of the source code for the concepts covered.  
-Tweaked code: https://github.com/Y-kz918/Yuktha-Langgraph-MAT496/blob/main/MODULE%202/state_reducers%20(1).ipynb
+Tweaked code: https://github.com/Y-kz918/Yuktha-Langgraph-MAT496/blob/main/MODULE%202/state_reducers%20(1).ipynb  
+
+video 3- Learnt how to use private state in LangGraph to manage intermediate data that is not needed in the final output. We also saw how a single overall schema includes all state information in both input and output. Finally, we explored using explicit input and output schemas to filter data entering and leaving the graph.  
+Changes made: Added own examples towards the end of the source code.  
+Tweaked code: https://github.com/Y-kz918/Yuktha-Langgraph-MAT496/blob/main/MODULE%202/multiple_schemas.ipynb
+
+
