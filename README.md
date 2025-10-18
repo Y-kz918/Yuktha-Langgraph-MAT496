@@ -42,6 +42,10 @@ Tweaked code: https://github.com/Y-kz918/Yuktha-Langgraph-MAT496/blob/main/MODUL
 
 video 3- Learnt how to use private state in LangGraph to manage intermediate data that is not needed in the final output. We also saw how a single overall schema includes all state information in both input and output. Finally, we explored using explicit input and output schemas to filter data entering and leaving the graph.  
 Changes made: Added own examples towards the end of the source code.  
-Tweaked code: https://github.com/Y-kz918/Yuktha-Langgraph-MAT496/blob/main/MODULE%202/multiple_schemas.ipynb
+Tweaked code: https://github.com/Y-kz918/Yuktha-Langgraph-MAT496/blob/main/MODULE%202/multiple_schemas.ipynb  
+
+video 4- Learnt how to manage message history in LangGraph using several techniques. These include reducing the number of messages, filtering to keep only certain messages, and trimming based on token limits. I understand how important it is to manage the conversation history properly to make chatbots more efficient and context-aware. By controlling what part of the conversation is sent to the language model, we can improve performance and save resources.   
+Changes made: Added own examples at the end of the source code to implement my understanding of the concepts.  
+Tweaked code: https://github.com/Y-kz918/Yuktha-Langgraph-MAT496/blob/main/MODULE%202/trim_filter_messages.ipynb
 
 
