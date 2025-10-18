@@ -49,7 +49,7 @@ Changes made: Added own examples at the end of the source code to implement my u
 Tweaked code: https://github.com/Y-kz918/Yuktha-Langgraph-MAT496/blob/main/MODULE%202/trim_filter_messages.ipynb   
 
 video 5- Learnt how to build a chatbot using LangGraph that keeps conversations short by summarizing previous messages. It also showed me how to give the chatbot memory by using LangGraph's built-in persistence feature with thread IDs. This helps the bot remember past interactions even if the conversation gets long.  
-Changes made: Added own examples at the end of the source code to implement my understanding of the concepts.
+Changes made: Added own examples at the end of the source code to implement my understanding of the concepts.  
 Tweaked code: https://github.com/Y-kz918/Yuktha-Langgraph-MAT496/blob/main/MODULE%202/chatbot_summarization.ipynb  
 
 video 6- 
