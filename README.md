@@ -53,6 +53,8 @@ Changes made: Added own examples at the end of the source code to implement my u
 Tweaked code: https://github.com/Y-kz918/Yuktha-Langgraph-MAT496/blob/main/MODULE%202/chatbot_summarization.ipynb  
 
 video 6- Learnt how to build a LangGraph chatbot that has persistent memory using a SQLite checkpointer. Learnt how to set up the conversation state, create nodes for things like chatting and summarizing, and then compile a graph that can save and load the conversation history from a database. This makes it possible for the chatbot to remember past interactions even after restarting.  
+Changes made: Added own examples at the end of the source code to implement my understanding of the concepts.  
+Tweaked code: https://github.com/Y-kz918/Yuktha-Langgraph-MAT496/blob/main/MODULE%202/chatbot_external_memory.ipynb
 
 
 
