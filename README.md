@@ -46,6 +46,12 @@ Tweaked code: https://github.com/Y-kz918/Yuktha-Langgraph-MAT496/blob/main/MODUL
 
 video 4- Learnt how to manage message history in LangGraph using several techniques. These include reducing the number of messages, filtering to keep only certain messages, and trimming based on token limits. I understand how important it is to manage the conversation history properly to make chatbots more efficient and context-aware. By controlling what part of the conversation is sent to the language model, we can improve performance and save resources.   
 Changes made: Added own examples at the end of the source code to implement my understanding of the concepts.  
-Tweaked code: https://github.com/Y-kz918/Yuktha-Langgraph-MAT496/blob/main/MODULE%202/trim_filter_messages.ipynb
+Tweaked code: https://github.com/Y-kz918/Yuktha-Langgraph-MAT496/blob/main/MODULE%202/trim_filter_messages.ipynb   
+
+video 5- Learnt how to build a chatbot using LangGraph that keeps conversations short by summarizing previous messages. It also showed me how to give the chatbot memory by using LangGraph's built-in persistence feature with thread IDs. This helps the bot remember past interactions even if the conversation gets long.  
+Changes made: Added own examples at the end of the source code to implement my understanding of the concepts.
+Tweaked code: https://github.com/Y-kz918/Yuktha-Langgraph-MAT496/blob/main/MODULE%202/chatbot_summarization.ipynb  
+
+video 6- 
 
 
