@@ -60,7 +60,10 @@ Tweaked code: https://github.com/Y-kz918/Yuktha-Langgraph-MAT496/blob/main/MODUL
 
 video 1- Learnt how to set up a LangGraph chatbot with memory and how to stream outputs from the graph during execution using different streaming modes (values, updates, and astream_events) to observe the graph's state and chat model tokens.  
 Changes made: Implemented own examples at the end using Groq's "openai/gpt-oss-120b" model.  
-Tweaked code: https://github.com/Y-kz918/Yuktha-Langgraph-MAT496/blob/main/MODULE%203/streaming_interruption.ipynb
+Tweaked code: https://github.com/Y-kz918/Yuktha-Langgraph-MAT496/blob/main/MODULE%203/streaming_interruption.ipynb  
 
+video 2- I learnt how to use breakpoints in LangGraph to pause the execution of agent's graph at specific nodes, enabling human-in-loop workflows like user approval of actions before they are executed.  
+Changes made: Implemented own examples at the end using Groq's "openai/gpt-oss-120b" model.  
+Tweaked code: https://github.com/Y-kz918/Yuktha-Langgraph-MAT496/blob/main/MODULE%203/breakpoints.ipynb
 
 
