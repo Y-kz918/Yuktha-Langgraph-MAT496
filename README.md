@@ -64,6 +64,10 @@ Tweaked code: https://github.com/Y-kz918/Yuktha-Langgraph-MAT496/blob/main/MODUL
 
 video 2- I learnt how to use breakpoints in LangGraph to pause the execution of agent's graph at specific nodes, enabling human-in-loop workflows like user approval of actions before they are executed.  
 Changes made: Implemented own examples at the end using Groq's "openai/gpt-oss-120b" model.  
-Tweaked code: https://github.com/Y-kz918/Yuktha-Langgraph-MAT496/blob/main/MODULE%203/breakpoints.ipynb
+Tweaked code: https://github.com/Y-kz918/Yuktha-Langgraph-MAT496/blob/main/MODULE%203/breakpoints.ipynb  
+
+video 3- Learnt how to use LangGraph breakpoints to interrupt the graph execution and modify the state. We have two ways to achieve this: directly updating the state and using a dedicated "human_feedback" node.  
+Changes made: Implemented own examples at the end using Groq's "openai/gpt-oss-120b" model.    
+Tweaked code: https://github.com/Y-kz918/Yuktha-Langgraph-MAT496/blob/main/MODULE%203/edit-state-human-feedback.ipynb
 
 
