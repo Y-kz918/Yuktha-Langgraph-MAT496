@@ -72,6 +72,10 @@ Tweaked code: https://github.com/Y-kz918/Yuktha-Langgraph-MAT496/blob/main/MODUL
 
 video 4- I learned about dynamic breakpoints in LangGraph using NodeInterrupt. They allow the graph to pause execution based on certain conditions in the state. This helps inspect and modify the state during the pause and then resume the graph with the updated data. It is useful for creating human in the loop workflows for approval, debugging, and editing.  
 Changes made: Implemented own examples at the end using Groq's "openai/gpt-oss-120b" model.  
-Tweaked code: https://github.com/Y-kz918/Yuktha-Langgraph-MAT496/blob/main/MODULE%203/dynamic-breakpoints1.ipynb
+Tweaked code: https://github.com/Y-kz918/Yuktha-Langgraph-MAT496/blob/main/MODULE%203/dynamic-breakpoints1.ipynb  
+
+video 5 - Learnt about time travel capabilities of LangGraph. It shows how to browse the history of an agent's execution, replay the execution from a previous state, and also fork the execution by modifying a past state and resuming. These are useful for debugging and understanding the agent's behavior.
+Changes made: Included images of implementing forking the tools in 'agent' graph in LangGraph studio, also implemented my own example of a custom graph  
+Tweaked code: https://github.com/Y-kz918/Yuktha-Langgraph-MAT496/blob/main/MODULE%203/time-travel1.ipynb
 
 
