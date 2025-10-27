@@ -68,6 +68,10 @@ Tweaked code: https://github.com/Y-kz918/Yuktha-Langgraph-MAT496/blob/main/MODUL
 
 video 3- Learnt how to use LangGraph breakpoints to interrupt the graph execution and modify the state. We have two ways to achieve this: directly updating the state and using a dedicated "human_feedback" node.  
 Changes made: Implemented own examples at the end using Groq's "openai/gpt-oss-120b" model.    
-Tweaked code: https://github.com/Y-kz918/Yuktha-Langgraph-MAT496/blob/main/MODULE%203/edit-state-human-feedback.ipynb
+Tweaked code: https://github.com/Y-kz918/Yuktha-Langgraph-MAT496/blob/main/MODULE%203/edit-state-human-feedback.ipynb  
+
+video 4- I learned about dynamic breakpoints in LangGraph using NodeInterrupt. They allow the graph to pause execution based on certain conditions in the state. This helps inspect and modify the state during the pause and then resume the graph with the updated data. It is useful for creating human in the loop workflows for approval, debugging, and editing.  
+Changes made: Implemented own examples at the end using Groq's "openai/gpt-oss-120b" model.  
+Tweaked code: https://github.com/Y-kz918/Yuktha-Langgraph-MAT496/blob/main/MODULE%203/dynamic-breakpoints1.ipynb
 
 
