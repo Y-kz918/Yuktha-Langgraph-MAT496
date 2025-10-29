@@ -81,7 +81,12 @@ Tweaked code: https://github.com/Y-kz918/Yuktha-Langgraph-MAT496/blob/main/MODUL
 # MODULE 4  
 video 1- Learnt how parallel node execution in LangGraph works. Understood demonstrationn of how to run multiple nodes concurrently and how to manage state updates from these parallel branches using custom reducers and waiting mechanisms.  
 Changes made: Implemented own examples at the end using Groq's "openai/gpt-oss-120b" model and added screenshots of working on LangGraph Studio.    
-Tweaked code: https://github.com/Y-kz918/Yuktha-Langgraph-MAT496/blob/main/MODULE%204/parallelization.ipynb  
+Tweaked code: https://github.com/Y-kz918/Yuktha-Langgraph-MAT496/blob/main/MODULE%204/parallelization.ipynb    
+
+video 2- Learntabout sub-graphs in LangGraph. Learnt how to create sub-graphs with their own states and logic, and then integrate them into a larger parent graph to handle complex workflows like parallel processing of data.  
+Changes made: Implemented own examples at the end using Groq's "openai/gpt-oss-120b" model and added screenshots of working on LangGraph Studio and Langsmith traces.      
+Tweaked code: https://github.com/Y-kz918/Yuktha-Langgraph-MAT496/blob/main/MODULE%204/sub-graph.ipynb
+
 
 
 
