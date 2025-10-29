@@ -76,6 +76,13 @@ Tweaked code: https://github.com/Y-kz918/Yuktha-Langgraph-MAT496/blob/main/MODUL
 
 video 5 - Learnt about time travel capabilities of LangGraph. It shows how to browse the history of an agent's execution, replay the execution from a previous state, and also fork the execution by modifying a past state and resuming. These are useful for debugging and understanding the agent's behavior.
 Changes made: Included images of implementing forking the tools in 'agent' graph in LangGraph studio, also implemented my own example of a custom graph  
-Tweaked code: https://github.com/Y-kz918/Yuktha-Langgraph-MAT496/blob/main/MODULE%203/time-travel1.ipynb
+Tweaked code: https://github.com/Y-kz918/Yuktha-Langgraph-MAT496/blob/main/MODULE%203/time-travel1.ipynb  
+
+# MODULE 4  
+video 1- Learnt how parallel node execution in LangGraph works. Understood demonstrationn of how to run multiple nodes concurrently and how to manage state updates from these parallel branches using custom reducers and waiting mechanisms.  
+Changes made: Implemented own examples at the end using Groq's "openai/gpt-oss-120b" model and added screenshots of working on LangGraph Studio.    
+Tweaked code: https://github.com/Y-kz918/Yuktha-Langgraph-MAT496/blob/main/MODULE%204/parallelization.ipynb  
+
+
 
 
