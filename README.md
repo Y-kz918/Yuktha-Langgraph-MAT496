@@ -83,10 +83,15 @@ video 1- Learnt how parallel node execution in LangGraph works. Understood demon
 Changes made: Implemented own examples at the end using Groq's "openai/gpt-oss-120b" model and added screenshots of working on LangGraph Studio.    
 Tweaked code: https://github.com/Y-kz918/Yuktha-Langgraph-MAT496/blob/main/MODULE%204/parallelization.ipynb    
 
-video 2- Learntabout sub-graphs in LangGraph. Learnt how to create sub-graphs with their own states and logic, and then integrate them into a larger parent graph to handle complex workflows like parallel processing of data.  
+video 2- Learnt about sub-graphs in LangGraph. Learnt how to create sub-graphs with their own states and logic, and then integrate them into a larger parent graph to handle complex workflows like parallel processing of data.  
 Changes made: Implemented own examples at the end using Groq's "openai/gpt-oss-120b" model and added screenshots of working on LangGraph Studio and Langsmith traces.      
-Tweaked code: https://github.com/Y-kz918/Yuktha-Langgraph-MAT496/blob/main/MODULE%204/sub-graph.ipynb
+Tweaked code: https://github.com/Y-kz918/Yuktha-Langgraph-MAT496/blob/main/MODULE%204/sub-graph.ipynb  
 
+video 3- Learnt about map-reduce concepts using the LangGraph library. Understood demonstration of how to break down a task into smaller, parallelizable sub-tasks (map) and then combine the results (reduce) within a stateful graph structure, first with a joke generation example and then with a text summarization example.  
+Changes made: Implemented own examples at the end using Groq's "openai/gpt-oss-120b" model and added screenshots of working on LangGraph Studio and Langsmith.
+Tweaked code: https://github.com/Y-kz918/Yuktha-Langgraph-MAT496/blob/main/MODULE%204/map-reduce.ipynb  
+
+video 4-
 
 
 
