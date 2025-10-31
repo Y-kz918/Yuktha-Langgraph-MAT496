@@ -91,7 +91,10 @@ video 3- Learnt about map-reduce concepts using the LangGraph library. Understoo
 Changes made: Implemented own examples at the end using Groq's "openai/gpt-oss-120b" model and added screenshots of working on LangGraph Studio and Langsmith.
 Tweaked code: https://github.com/Y-kz918/Yuktha-Langgraph-MAT496/blob/main/MODULE%204/map-reduce.ipynb  
 
-video 4-
+video 4- I  learnt how to build a lightweight, multi-agent research assistant using LangGraph. It explains key LangGraph concepts like memory, human-in-the-loop interaction, and controllability to customize the research process and generate a final report from parallelized expert interviews.  
+Changes made: Used Groq models and added screeonshots of Langsmith traces.  
+Tweaked code: 
+
 
 
 
