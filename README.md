@@ -93,8 +93,7 @@ Tweaked code: https://github.com/Y-kz918/Yuktha-Langgraph-MAT496/blob/main/MODUL
 
 video 4- I  learnt how to build a lightweight, multi-agent research assistant using LangGraph. It explains key LangGraph concepts like memory, human-in-the-loop interaction, and controllability to customize the research process and generate a final report from parallelized expert interviews.  
 Changes made: Used Groq models and added screeonshots of Langsmith traces.  
-Tweaked code: 
-
+Tweaked code: https://github.com/Y-kz918/Yuktha-Langgraph-MAT496/blob/main/MODULE%204/research_assistant.ipynb
 
 
 
